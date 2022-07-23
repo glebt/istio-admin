@@ -6,6 +6,8 @@ kubectl create namespace istio-system
 
 #base
 helm install istio-base istio/base -n istio-system
+
+#istio-d
 helm install istiod istio/istiod -n istio-system --wait
 ```
 

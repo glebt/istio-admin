@@ -1,7 +1,7 @@
 ## tldr 
 #linxux #man 
 
-Needs [[linux-tools/node-js]] or Python (see the link below). I prefer Node. 
+Needs [[node-js]] or Python (see the link below). I prefer Node. 
 
 ```bash
 sudo npm install -g tldr
